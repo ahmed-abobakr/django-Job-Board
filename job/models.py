@@ -3,6 +3,8 @@ from django.db import models
 # Create your models here.
 
 
+
+
 JOB_TYPE = [
     ('Full Time', 'Full Time'),
     ('Part Time', 'Part Time'),
